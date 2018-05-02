@@ -1,0 +1,43 @@
+body {
+    background-color: #000639;
+}
+
+.btn {
+    color: #FFFFFF;
+    background-color: #5c6ac4;
+}
+
+#title {
+    color: #FFFFFF;
+    font-size: 24px;
+}
+
+p, h5 {
+    color: #FFFFFF;
+    font-family: Helvetica;
+}
+
+#emailaddress::-webkit-input-placeholder {
+    color: #7b7b7b;
+}
+
+#error {
+    display: none;
+    color: #c23628;
+}
+
+#success {
+    display: none;
+}
+
+hr {
+    width: 25px;
+    height: 3px;
+    background-color: #7AB55C;
+    border: 0 none;
+    margin-left: 0;
+}
+
+.container{
+    max-width: 33.333%;
+}
